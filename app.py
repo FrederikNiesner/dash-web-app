@@ -34,9 +34,6 @@ app.layout = html.Div([
 def update_figure(selected_year):
     """
     Summary.
-    Shalalaldsfkasjdklfasdfasklöf  fdslö fklösdaf sdklöfs.
-    ffdsölfkdsaölkflöas.
-
     Args:
         selected_year ([type]): [description]
 
